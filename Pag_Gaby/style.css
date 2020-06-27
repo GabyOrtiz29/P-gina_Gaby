@@ -1,0 +1,27 @@
+.body{
+    font-family: Verdana;/*tipo de letra*/
+    background-color: #FBEEE6 !important;
+    color: #7E5109;
+}
+
+.titulo
+{
+	font-family: Verdana ! important;/*tipo de letra*/
+    color: #7E5109 ! important;
+}
+
+.medio{
+	vertical-align: middle !important;
+}
+
+.btn{
+     background-color: #E5B99C   ! important; 
+     display:block ! important; 
+     margin-left: auto ! important; 
+     margin-right: auto ! important; 
+}
+
+.block{
+text-align:center ! important;
+
+}
